@@ -1,0 +1,15 @@
+F:\c#\作死\玩水\玩水\obj\Debug\MainWindow.g.cs
+F:\c#\作死\玩水\玩水\obj\Debug\App.g.cs
+F:\c#\作死\玩水\玩水\obj\Debug\玩水_MarkupCompile.cache
+F:\c#\作死\玩水\玩水\obj\Debug\玩水_MarkupCompile.lref
+F:\c#\作死\玩水\玩水\bin\Debug\玩水.exe.config
+F:\c#\作死\玩水\玩水\bin\Debug\玩水.exe
+F:\c#\作死\玩水\玩水\bin\Debug\玩水.pdb
+F:\c#\作死\玩水\玩水\obj\Debug\MainWindow.baml
+F:\c#\作死\玩水\玩水\obj\Debug\玩水.g.resources
+F:\c#\作死\玩水\玩水\obj\Debug\玩水.Properties.Resources.resources
+F:\c#\作死\玩水\玩水\obj\Debug\玩水.csproj.GenerateResource.Cache
+F:\c#\作死\玩水\玩水\obj\Debug\玩水.csproj.CoreCompileInputs.cache
+F:\c#\作死\玩水\玩水\obj\Debug\玩水.exe
+F:\c#\作死\玩水\玩水\obj\Debug\玩水.pdb
+F:\c#\作死\玩水\玩水\obj\Debug\玩水.csprojResolveAssemblyReference.cache
